@@ -7,3 +7,7 @@ Template: meola
 
 @import url("../meola/style.css");
 
+.mejs-audio {
+	width:100% !important;
+	max-width: 350px !important;
+}
